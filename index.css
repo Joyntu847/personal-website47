@@ -35,9 +35,10 @@ h1 {
 }
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(180deg,lightSalmon,rgb(255, 192, 239));
+    background-color: palevioletred;
     
-    color:white;
+    
+    color: white;
 }
 .text-align{
     text-align: center;
